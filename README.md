@@ -1,1 +1,1 @@
-# hAckathon_march132023
+# Terminal Life Calender Visualizer
