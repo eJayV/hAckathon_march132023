@@ -1,6 +1,6 @@
 # Terminal Life Calender Visualizer
 
-Life calender is a product that visually shows how many weeks you have lived, and how many you have left.
+Life calender is a product that visually shows how many weeks you have lived, and how many you have left, and then you fill in each week as you live.
 
 This program runs in terminal and simply takes in your date of birth and outputs a percentage of life lived so far and shows a visual of how many weeks you have used and how many you have left... if you live to 90.
 
