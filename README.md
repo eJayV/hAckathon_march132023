@@ -4,6 +4,8 @@ Life calender is a product that visually shows how many weeks you have lived, an
 
 This program runs in terminal and simply takes in your date of birth and outputs a percentage of life lived so far and shows a visual of how many weeks you have used and how many you have left... if you live to 90.
 
+Try the windows.exe if your on windows, it uses X's and O's instead of boxes.
+
 
 
 Heres an example output:
